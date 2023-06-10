@@ -1,4 +1,4 @@
-English | [简体中文](README_zh-CN.md)
+English | [简体中文](./profile/README_zh-CN.md)
 <div id="top" align="center">
   <img src=".\images\logo.jpg" width="200px"/>
   <div>&nbsp;</div>

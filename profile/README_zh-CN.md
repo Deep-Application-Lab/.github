@@ -1,4 +1,4 @@
-[English](README.md) | 简体中文
+[English](./profile/README.md) | 简体中文
 
 <div id="top" align="center">
   <img src=".\images\logo.jpg" width="200px"/>
