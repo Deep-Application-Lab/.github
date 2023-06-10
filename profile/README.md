@@ -24,7 +24,7 @@ English | [简体中文](https://github.com/Deep-Application-Lab/.github/blob/ma
 
 ## 📖 Group Introduction
 
-**Deep Application Lab**(DAL) is a research group affiliated with the Software and Algorithms Lab of Chengdu University of Technology. His research interests mainly include deep learning and its cross-domain applications, embedded artificial intelligence, and reinforcement learning.
+**Deep Application Lab**(DAL) is a research group affiliated with the Software and Algorithms Lab of Chengdu University of Technology. Our research interests mainly include deep learning and its cross-domain applications, embedded artificial intelligence, and reinforcement learning.
 
 
 
@@ -33,8 +33,7 @@ English | [简体中文](https://github.com/Deep-Application-Lab/.github/blob/ma
 ## ✨ Members
 
 - **Yingjie Ma** (Chengdu University of Technology, [murinj2248@outlook.com](mailto:murinj2248@outlook.com))
-
-  Nowadays a undergraudate student who is majoring **IOT**, in the College of Computer Science and Cyber Security, Chengdu University of Technology. His reseaches of interests includes ***Applications of computer vision, Artificial Intelligence of Things, Embedded artificial intelligence***.
+Nowadays a undergraudate student who is majoring **IOT**, in the College of Computer Science and Cyber Security, Chengdu University of Technology. His reseaches of interests includes ***Applications of computer vision, Artificial Intelligence of Things, Embedded artificial intelligence***.
 
 <p align="right"><a href="#top">🔝Back to top</a></p>
 
