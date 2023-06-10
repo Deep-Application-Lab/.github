@@ -32,7 +32,7 @@ English | [简体中文](https://github.com/Deep-Application-Lab/.github/blob/ma
 
 ## ✨ Members
 
-- **Yingjie Ma (Chengdu University of Technology, [murinj2248@outlook.com](mailto:murinj2248@outlook.com))
+- **Yingjie Ma** (Chengdu University of Technology, [murinj2248@outlook.com](mailto:murinj2248@outlook.com))
 
   Nowadays a undergraudate student who is majoring **IOT**, in the College of Computer Science and Cyber Security, Chengdu University of Technology. His reseaches of interests includes ***Applications of computer vision, Artificial Intelligence of Things, Embedded artificial intelligence***.
 
